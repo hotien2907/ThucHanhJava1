@@ -1,3 +1,5 @@
+package BaiTapBuoi1;
+
 import java.util.Scanner;
 
 public class BaiTh1 {

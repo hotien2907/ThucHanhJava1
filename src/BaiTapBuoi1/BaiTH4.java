@@ -1,6 +1,8 @@
+package BaiTapBuoi1;
+
 import java.util.Scanner;
 
-public class BaiTH5 {
+public class BaiTH4 {
     public static void main(String[] args) {
         double chieuDai, chieuRong,chuVi, dienTich;
         Scanner scanner = new Scanner(System.in);
@@ -12,6 +14,6 @@ public class BaiTH5 {
 
         chuVi = (chieuDai+chieuRong)*2;
         dienTich = chieuDai* chieuRong;
-        System.out.println("chu vi: ");
+        System.out.println("chu vi: "+ chuVi);System.out.println("dien tiích"+ dienTich);
     }
 }
